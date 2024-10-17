@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Gateway": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7200 --cors *"
+    }
+  }
+}

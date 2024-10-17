@@ -1,0 +1,7 @@
+{
+	"subgraph": "Subgraph1",
+	"http": {
+		"baseAddress": "http://localhost:7201/api/graphql",
+		"clientName": "Subgraph1"
+	}
+}

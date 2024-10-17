@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Subgraph1": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7201 --cors *"
+    }
+  }
+}
