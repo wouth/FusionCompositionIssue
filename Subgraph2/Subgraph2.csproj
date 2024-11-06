@@ -9,7 +9,6 @@
 		<CompilerGeneratedFilesOutputPath>$(BaseIntermediateOutputPath)Generated</CompilerGeneratedFilesOutputPath>
 	</PropertyGroup>
 	<ItemGroup>
-	  <Content Include="host.json" />
 	  <Content Include="local.settings.json" />
 	</ItemGroup>
 	<ItemGroup>
