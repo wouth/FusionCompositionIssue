@@ -12,11 +12,11 @@
 	  <Content Include="local.settings.json" />
 	</ItemGroup>
 	<ItemGroup>
-		<PackageReference Include="HotChocolate.AzureFunctions.IsolatedProcess" Version="14.2.0" />
-		<PackageReference Include="HotChocolate.Abstractions" Version="14.2.0" />
-		<PackageReference Include="HotChocolate.Fusion.SourceSchema" Version="14.2.0" />
-		<PackageReference Include="HotChocolate.Primitives" Version="14.2.0" />
-		<PackageReference Include="HotChocolate.Types.Analyzers" Version="14.2.0">
+		<PackageReference Include="HotChocolate.AzureFunctions.IsolatedProcess" Version="14.3.0" />
+		<PackageReference Include="HotChocolate.Abstractions" Version="14.3.0" />
+		<PackageReference Include="HotChocolate.Fusion.SourceSchema" Version="14.3.0" />
+		<PackageReference Include="HotChocolate.Primitives" Version="14.3.0" />
+		<PackageReference Include="HotChocolate.Types.Analyzers" Version="14.3.0">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
