@@ -1,0 +1,16 @@
+schema {
+  query: Query
+}
+
+type Query {
+  test1: [Test1]
+  test2: [Test2]
+}
+
+type Test1 {
+  testProperty: String
+}
+
+type Test2 {
+  testProperty: String
+}

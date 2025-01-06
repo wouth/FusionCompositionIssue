@@ -3,13 +3,13 @@
   "isRoot": true,
   "tools": {
     "strawberryshake.tools": {
-      "version": "14.3.0",
+      "version": "14.4.0-p.2",
       "commands": [
         "dotnet-graphql"
       ]
     },
     "hotchocolate.fusion.commandline": {
-      "version": "14.3.0",
+      "version": "14.4.0-p.2",
       "commands": [
         "fusion"
       ]
